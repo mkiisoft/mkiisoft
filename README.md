@@ -8,4 +8,4 @@
 ### Doing some Flutter magic at VGV
 [![Very Good Ventures](https://raw.githubusercontent.com/VGVentures/very_good_analysis/main/assets/vgv_logo.png)](https://verygood.ventures) 
 
-[![MkiiSoft's github stats](https://github-readme-stats.vercel.app/api?username=iabhishek07&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/mkiisoft/github-readme-stats)]
+[![MkiiSoft's github stats](https://github-readme-stats.vercel.app/api?username=mkiisoft&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/mkiisoft/github-readme-stats)]
