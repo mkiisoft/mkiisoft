@@ -5,11 +5,15 @@
 - 📫 How to reach me: 📱 [Twitter @GeekMZ](https://twitter.com/geekmz) - 📧 [Email](mailto:mkiisoft@gmail.com)
 - 🤓 What I do: I'm a [Google Expert for Flutter](https://developers.google.com/community/experts/directory/profile/profile-mariano_pablo_zorrilla_domian), Tech Lead, Software Engineer, Speaker and Mentor
 
-### Doing some Flutter magic at VGV
-[![Very Good Ventures](https://raw.githubusercontent.com/VGVentures/very_good_analysis/main/assets/vgv_logo.png)](https://verygood.ventures) 
+<p align="center">
+<p align="center"><h3 align="center">Doing some Flutter magic at VGV</h3></p>
+<img align="center" src="https://raw.githubusercontent.com/VGVentures/very_good_analysis/main/assets/vgv_logo.png"><a href="https://verygood.ventures/"/></img>
+</p>
 
-[![MkiiSoft's github stats](https://github-readme-stats.vercel.app/api?username=mkiisoft&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/mkiisoft/github-readme-stats)
-
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mkiisoft&&show_icons=true&theme=radical" alt="Pramod's Github Stats">
+</p>
+<br>
 <div align="center">
   <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
 </div>
