@@ -6,8 +6,10 @@
 - 🤓 What I do: I'm a [Google Expert for Flutter](https://developers.google.com/community/experts/directory/profile/profile-mariano_pablo_zorrilla_domian), Tech Lead, Software Engineer, Speaker and Mentor
 
 <p align="center">
-<p align="center"><h3 align="center">Doing some Flutter magic at VGV</h3></p>
-<img align="center" src="https://raw.githubusercontent.com/VGVentures/very_good_analysis/main/assets/vgv_logo.png"><a href="https://verygood.ventures/"/></img>
+  <h3 align="center">Doing some Flutter magic at VGV</h3>
+  <p align="center">
+  <a href="https://verygood.ventures/"><img align="center" src="https://raw.githubusercontent.com/VGVentures/very_good_analysis/main/assets/vgv_logo.png"></img></a>
+  </p>
 </p>
 
 <p align="center">
