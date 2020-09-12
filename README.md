@@ -3,6 +3,7 @@
 </p>
 <p align="center">
   <h3 align="center">Doing some magic at Venmo, VGV and Google Developer Experts</h3>
+  &nbsp;
   <p align="center">
   <img align="center" src="https://assets.codepen.io/2399829/venmo_circle.png"/>
   &nbsp;
