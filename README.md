@@ -1,14 +1,17 @@
-### Hi there 👋
-
+<p align="center">
+<img src="https://assets.codepen.io/2399829/banner_github.png"/>
+</p>
 
 - 🔭 I’m currently working on: Venmo (Android), VGV (Flutter)
 - 📫 How to reach me: 📱 [Twitter @GeekMZ](https://twitter.com/geekmz) - 📧 [Email](mailto:mkiisoft@gmail.com)
 - 🤓 What I do: I'm a [Google Expert for Flutter](https://developers.google.com/community/experts/directory/profile/profile-mariano_pablo_zorrilla_domian), Tech Lead, Software Engineer, Speaker and Mentor
 
 <p align="center">
-  <h3 align="center">Doing some Flutter magic at VGV</h3>
+  <h3 align="center">Doing some magic at Venmo, VGV and Google Developer Experts</h3>
   <p align="center">
-  <a href="https://verygood.ventures/"><img align="center" src="https://raw.githubusercontent.com/VGVentures/very_good_analysis/main/assets/vgv_logo.png"></img></a>
+  <img align="center" src="https://assets.codepen.io/2399829/venmo_circle.png"/>
+  <a href="https://verygood.ventures/"><img align="center" src="https://raw.githubusercontent.com/VGVentures/very_good_analysis/main/assets/vgv_logo.png"></img>     </a>
+  <img align="center" src="https://assets.codepen.io/2399829/flutter_badge.png"/>
   </p>
 </p>
 <br>
