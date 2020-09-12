@@ -6,7 +6,9 @@
   <p align="center">
   <img align="center" src="https://assets.codepen.io/2399829/venmo_circle.png"/>
   &nbsp;
+  &nbsp;
   <a href="https://verygood.ventures/"><img align="center" src="https://raw.githubusercontent.com/VGVentures/very_good_analysis/main/assets/vgv_logo.png"></img>     </a>
+  &nbsp;
   &nbsp;
   <img align="center" src="https://assets.codepen.io/2399829/flutter_badge.png"/>
   </p>
