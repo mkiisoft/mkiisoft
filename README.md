@@ -23,13 +23,13 @@
   <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
 </div>
 <p align="center">
- <a href="https://www.linkedin.com/in/marianozorrilla/" target="blank">
+ <a href="https://www.linkedin.com/in/marianozorrilla/" target=”_blank”>
   <img align="center" alt="Pramod's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
  </a>
- <a href="https://twitter.com/geekmz" target="blank">
+ <a href="https://twitter.com/geekmz" target=”_blank”>
   <img align="center" alt="Pramod's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" /> &nbsp; &nbsp;
  </a>
- <a href="https://medium.com/@mkiisoft" target="blank">
+ <a href="https://medium.com/@mkiisoft" target=”_blank”>
   <img align="center" alt="Pramod's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />
  </a> 
   <br/>
