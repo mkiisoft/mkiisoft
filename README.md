@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://assets.codepen.io/2399829/banner_githuba.png"/>
+<img src="https://assets.codepen.io/2399829/banner_github.png"/>
 </p>
 <p align="center">
   <h3 align="center">Doing some magic at Venmo, VGV and Google Developer Experts</h3>
