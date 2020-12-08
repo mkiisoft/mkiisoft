@@ -16,7 +16,7 @@
 </p>
 <br>
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mkiisoft&count_private=true&theme=default&show_icons=true" alt="Pramod's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mkiisoft&count_private=true&theme=dark&show_icons=true" alt="Pramod's Github Stats">
 </p>
 <br>
 <div align="center">
