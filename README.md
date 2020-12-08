@@ -8,7 +8,7 @@
   <img align="center" src="https://assets.codepen.io/2399829/venmo_circle.png" width="12%"/>
   &nbsp;
   &nbsp;
-  <a href="https://verygood.ventures/"><img align="center" src="https://raw.githubusercontent.com/VGVentures/very_good_analysis/main/assets/vgv_logo.png" width="12%"></img>     </a>
+  <a href="https://verygood.ventures/"><img align="center" src="https://raw.githubusercontent.com/mkiisoft/flutter-gallery/master/assets/images/vgv_logo_white.png" width="12%"></img></a>
   &nbsp;
   &nbsp;
   <img align="center" src="https://assets.codepen.io/2399829/flutter_badge.png" width="12%"/>
