@@ -1,17 +1,17 @@
 <p align="center">
-<img src="https://assets.codepen.io/2399829/github_banner.png" />
+<img src="https://raw.githubusercontent.com/mkiisoft/flutter-gallery/master/assets/images/github_banner.png" />
 </p>
 <p align="center">
   <h3 align="center">Doing some magic at Venmo, VGV and Google Developer Experts</h3>
   &nbsp;
   <p align="center">
-  <img align="center" src="https://assets.codepen.io/2399829/venmo_circle.png" width="12%"/>
+  <img align="center" src="https://raw.githubusercontent.com/mkiisoft/flutter-gallery/master/assets/images/venmo_circle.png" width="12%"/>
   &nbsp;
   &nbsp;
   <a href="https://verygood.ventures/"><img align="center" src="https://raw.githubusercontent.com/mkiisoft/flutter-gallery/master/assets/images/vgv_logo_round.png" width="12%"></img></a>
   &nbsp;
   &nbsp;
-  <img align="center" src="https://assets.codepen.io/2399829/flutter_badge.png" width="12%"/>
+  <img align="center" src="https://raw.githubusercontent.com/mkiisoft/flutter-gallery/master/assets/images/flutter_badge.png" width="12%"/>
   </p>
 </p>
 <br>
